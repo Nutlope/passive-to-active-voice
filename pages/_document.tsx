@@ -8,27 +8,30 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
-            content="Generate your next Twitter bio in seconds."
+            content="Transform passive voice into active voice."
           />
-          <meta property="og:site_name" content="twitterbio.com" />
+          <meta
+            property="og:site_name"
+            content="passive-to-active.vercel.app"
+          />
           <meta
             property="og:description"
-            content="Generate your next Twitter bio in seconds."
+            content="Transform passive voice into active voice."
           />
-          <meta property="og:title" content="Twitter Bio Generator" />
+          <meta property="og:title" content="Active Voice Generator" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Twitter Bio Generator" />
+          <meta name="twitter:title" content="Active Voice Generator" />
           <meta
             name="twitter:description"
-            content="Generate your next Twitter bio in seconds."
+            content="Transform passive voice into active voice."
           />
           <meta
             property="og:image"
-            content="https://twitterbio.com/og-image.png"
+            content="https://og.anuragroy.dev/api?theme=zinc&title=Passive+to+Active+Generator&description=Turn+your+passive+voice+into+active+voice+using+AI.&avatar=https%3A%2F%2Fgithub.com%2Fnutlope.png&author=Hassan+El+Mghari&logo=%F0%9F%90%A6"
           />
           <meta
             name="twitter:image"
-            content="https://twitterbio.com/og-image.png"
+            content="https://og.anuragroy.dev/api?theme=zinc&title=Passive+to+Active+Generator&description=Turn+your+passive+voice+into+active+voice+using+AI.&avatar=https%3A%2F%2Fgithub.com%2Fnutlope.png&author=Hassan+El+Mghari&logo=%F0%9F%90%A6"
           />
         </Head>
         <body>

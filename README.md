@@ -2,6 +2,10 @@
 
 This project translates passive voice into active voice.
 
+## Motivation
+
+My friend Fatima [asked me to build this](https://twitter.com/sugaroverflow/status/1615483762934153221) so I did 🤷‍♂️.
+
 ## How it works
 
 This project uses the [OpenAI GPT-3 API](https://openai.com/api/) (specifically, text-davinci-003) and [Vercel Edge functions](https://vercel.com/features/edge-functions) with streaming. It constructs a prompt based on the form and user input, sends it to the GPT-3 API via a Vercel Edge function, then streams the response back to the application.

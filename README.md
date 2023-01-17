@@ -1,8 +1,6 @@
-# [TwitterBio.com](https://www.twitterbio.com/)
+# Passive to Active Voice
 
-This project generates Twitter bios for you using AI.
-
-[![Twitter Bio Generator](./public/screenshot.png)](https://www.twitterbio.com)
+This project translates passive voice into active voice.
 
 ## How it works
 
@@ -20,8 +18,6 @@ Then, run the application in the command line and it will be available at `http:
 npm run dev
 ```
 
-## One-Click Deploy
+## Credit
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/twitterbio&env=OPENAI_API_KEY&project-name=twitter-bio-generator&repo-name=twitterbio)
+- Feels weird crediting myself lol but I built it using code from [twitterbio](https://github.com/Nutlope/twitterbio)
